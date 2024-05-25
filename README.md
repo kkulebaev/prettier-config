@@ -84,7 +84,7 @@ To extend a configuration you will need to:
 > > };
 > > ```
 >
-> _source: <https://github.com/prettier/prettier/blob/cacaa92a3f0acf9618f54cd60c9b36b37744dbde/docs/configuration.md>_
+> [Source](https://github.com/prettier/prettier/blob/cacaa92a3f0acf9618f54cd60c9b36b37744dbde/docs/configuration.md )
 
 For example, if you need to change it so that semicolons are required:
 
