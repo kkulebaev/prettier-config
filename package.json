@@ -1,0 +1,17 @@
+{
+  "name": "prettier-config",
+  "version": "0.1.0",
+  "description": "A Prettier shareable config for projects using Prettier",
+  "main": ".prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "prettier-config",
+    "opinionated-code-formatter"
+  ],
+  "author": "kkulebaev <konstantinkulebaev@gmail.com>",
+  "license": "Apache-2.0 "
+}
