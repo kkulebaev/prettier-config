@@ -4,7 +4,9 @@
   "description": "A Prettier shareable config for projects using Prettier",
   "main": ".prettierrc.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major"
   },
   "keywords": [
     "prettier",
